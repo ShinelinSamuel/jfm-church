@@ -1,0 +1,13 @@
+name = OpenChurch Apps
+description = OpenChurch app store which gives administrators access to enable OpenChurch features.
+core = 7.x
+package = OpenChurch
+version = 7.x-1.0-alpha1
+project = openchurch_apps
+dependencies[] = apps
+; Information added by Drupal.org packaging script on 2015-04-07
+version = "7.x-2.1-beta5"
+core = "7.x"
+project = "openchurch_apps"
+datestamp = "1428373153"
+
